@@ -1,4 +1,8 @@
 #!/bin/bash
+#
+<< help
+this is code for backupfiles 
+help
 SOURCE_DIR="/path/to/source"
 BACKUP_DIR="/path/to/backup"
 DATE=$(date +%Y-%m-%d_%H-%M-%S)
