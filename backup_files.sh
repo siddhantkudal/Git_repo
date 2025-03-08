@@ -1,7 +1,8 @@
 #!/bin/bash
 #
 << help
-this is code for backupfiles 
+this is code for backupfiles
+it wiill tar files  
 help
 SOURCE_DIR="/path/to/source"
 BACKUP_DIR="/path/to/backup"
